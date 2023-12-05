@@ -2,7 +2,7 @@
 
 ## Presentations
 
-#### Representation of Compact Groups [(pdf)](/LieTheory.pdf)
+#### Representation Theory of Compact Groups [(pdf)](/LieTheory.pdf)
 
 MA5211 Lie Theory presentation (30 mins)
 
