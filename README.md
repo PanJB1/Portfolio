@@ -10,6 +10,10 @@ November 2022
 
 #### The Method of Chaining [(pdf part 1)](/MA5249PresentationPart1.pdf)[(pdf part 2)](/MA5249PresentationPart2.pdf) 
 
+MA5249 Stochastic Professes and Algorithms presentation (20 mins)
+
+November 2022
+
 ## Reports
 #### Reed-Solomon Codes [(pdf)](/Reed-Solomon.pdf)
 
