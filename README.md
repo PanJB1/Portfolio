@@ -5,7 +5,6 @@
 #### Representation Theory of Compact Groups [(pdf)](/LieTheory.pdf)
 
 MA5211 Lie Theory presentation (30 mins)
-
 November 2022
 
 #### The Method of Chaining [(pdf part 1)](/MA5249PresentationPart1.pdf)[(pdf part 2)](/MA5249PresentationPart2.pdf) 
