@@ -21,6 +21,12 @@ UROPS presentation (30 mins)
 July 2021
 
 ## Reports
+#### Analysis and Stochastics [(pdf)](/Reed-Solomon.pdf)
+
+Final Year Project report
+
+March 2023
+
 #### Reed-Solomon Codes [(pdf)](/Reed-Solomon.pdf)
 
 CS3236 Information Theory reading report (with my friend Yip Jung Hon)
