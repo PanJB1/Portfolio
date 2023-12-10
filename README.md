@@ -14,6 +14,12 @@ MA5249 Stochastic Professes and Algorithms presentation (20 mins)
 
 November 2022
 
+#### Gauss Composition [(pdf)](/UROPS1Presentation.pdf) 
+
+UROPS presentation (30 mins)
+
+July 2021
+
 ## Reports
 #### Reed-Solomon Codes [(pdf)](/Reed-Solomon.pdf)
 
@@ -26,3 +32,9 @@ March 2023
 MA5249 Stochastic Processes and Algorithms reading report
 
 November 2022
+
+#### Gauss Composition [(pdf)](/UROPS1.pdf) 
+
+UROPS report
+
+July 2021
