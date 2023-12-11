@@ -2,6 +2,18 @@
 
 ## Presentations
 
+#### Analysis and Stochastics [(pdf)](/FYPFinal.pdf)
+
+FYP Final Talk (35 mins)
+
+April 2023
+
+#### Statistical Estimation in Algebraically Structured Models [(pdf)](/FYPMidterm.pdf)
+
+FYP Midterm Talk (25 mins)
+
+January 2023
+
 #### Representation Theory of Compact Groups [(pdf)](/LieTheory.pdf)
 
 MA5211 Lie Theory presentation (30 mins)
@@ -13,6 +25,12 @@ November 2022
 MA5249 Stochastic Professes and Algorithms presentation (20 mins)
 
 November 2022
+
+#### Matrices in Quadratic Optimisation [(pdf)](/FYPIntro.pdf)
+
+FYP Intro Talk (15 mins)
+
+October 2022
 
 #### Gauss Composition [(pdf)](/UROPS1Presentation.pdf) 
 
