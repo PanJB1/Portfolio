@@ -21,7 +21,7 @@ UROPS presentation (30 mins)
 July 2021
 
 ## Reports
-#### Analysis and Stochastics [(pdf)](/Reed-Solomon.pdf)
+#### Analysis and Stochastics [(pdf)](/FYPReport.pdf)
 
 Final Year Project report
 
